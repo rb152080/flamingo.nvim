@@ -1,6 +1,6 @@
 # flamingo.nvim
 
-neovim colorscheme based off primeagen's broken tmux rose-pine colorscheme
+neovim colorscheme based on primeagen's broken tmux rose-pine colorscheme
 
 ![flamingo.nvim_preview.png](./assets/flamingo.nvim_preview.png)
 
